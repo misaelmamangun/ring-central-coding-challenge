@@ -1,4 +1,3 @@
-// src/components/search-bar.tsx
 import { TextField } from "@mui/material";
 
 type SearchBarProps = {
