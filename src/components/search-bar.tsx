@@ -1,6 +1,5 @@
 // src/components/search-bar.tsx
 import { TextField } from "@mui/material";
-import InputAdornment from "@mui/material/InputAdornment";
 
 type SearchBarProps = {
   placeholder?: string;
